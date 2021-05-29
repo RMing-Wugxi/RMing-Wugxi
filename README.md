@@ -3,7 +3,7 @@
 - ⚡ Want to be a embedded software developer
 - 👀 I’m interested in Robotis Skill、RoboMaster Competition and Automatic Control
 - 🌱 I’m currently learning STM32、Embedded System and RTOS
-- 💞️ I’m looking to like-minded friend
+- 💞️ I’m looking for like-minded friend
 
 
 <!---
