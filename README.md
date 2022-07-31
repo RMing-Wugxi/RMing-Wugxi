@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mingkonic（the RoboMaster captain of GCU Robot Team from 2020 to 2021）
-- 🌱 Current student at Guangzhou College of South China University of Technology (GCU)
+- 🌱 Graduate from Guangzhou College of South China University of Technology (GCU)
 - ⚡ Want to be a embedded software developer
 - 👀 I’m interested in Robotis Skill、RoboMaster Competition and Automatic Control
 - 🌱 I’m currently learning STM32、Embedded System and RTOS
